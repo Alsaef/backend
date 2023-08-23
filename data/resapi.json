@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "meal_name": "Grilled Chicken Salad",
+      "category": "Salad",
+      "ingredients": ["Chicken breast", "Lettuce", "Tomatoes", "Cucumber", "Red onion", "Balsamic vinaigrette"],
+      "instructions": "1. Grill the chicken until cooked through. 2. Chop the lettuce, tomatoes, cucumber, and red onion. 3. Slice the grilled chicken. 4. Toss all ingredients together with balsamic vinaigrette. 5. Serve.",
+      "image_url": "https://img.freepik.com/free-photo/fresh-vegetable-salad-with-grilled-chicken-breast_2829-14119.jpg?w=900&t=st=1692773063~exp=1692773663~hmac=4076b57859795c647c40b828e4752b18bdbbb717a1dc4259624137acef97489b",
+      "ratings": [
+        {"user": "Alice", "rating": 4},
+        {"user": "Bob", "rating": 5},
+        {"user": "Charlie", "rating": 3}
+      ]
+    },
+    {
+      "id": 2,
+      "meal_name": "Spaghetti Carbonara",
+      "category": "Pasta",
+      "ingredients": ["Spaghetti", "Pancetta", "Eggs", "Parmesan cheese", "Black pepper", "Salt"],
+      "instructions": "1. Cook spaghetti in salted water until al dente. 2. In a pan, cook pancetta until crispy. 3. In a bowl, whisk eggs, grated Parmesan cheese, and black pepper. 4. Drain cooked spaghetti and immediately toss with the egg mixture. 5. Add pancetta and mix well. 6. Serve with extra Parmesan and black pepper on top.",
+      "image_url": "https://img.freepik.com/free-photo/tasty-appetizing-classic-italian-spaghetti-pasta-with-tomato-sauce-cheese-parmesan-basil-plate-ingredients-cooking-pasta-dark-table-flat-lay-top-view-copy-spce_1150-45812.jpg?size=626&ext=jpg&ga=GA1.1.146896240.1680505271&semt=ais",
+      "ratings": [
+        {"user": "Alice", "rating": 5},
+        {"user": "Bob", "rating": 4},
+        {"user": "Charlie", "rating": 4}
+      ]
+    },
+    {
+      "id": 3,
+      "meal_name": "Grilled Salmon  Asparagus",
+      "category": "Seafood",
+      "ingredients": ["Salmon fillet", "Asparagus", "Olive oil", "Lemon", "Garlic", "Salt", "Black pepper"],
+      "instructions": "1. Preheat grill. 2. Rub salmon with olive oil, minced garlic, lemon juice, salt, and black pepper. 3. Coat asparagus with olive oil, salt, and pepper. 4. Grill salmon and asparagus until cooked and slightly charred. 5. Serve with lemon wedges.",
+      "image_url": "https://img.freepik.com/free-photo/baked-salmon-garnished-with-asparagus-tomatoes-with-herbs_2829-14472.jpg?size=626&ext=jpg&ga=GA1.1.146896240.1680505271&semt=ais",
+      "ratings": [
+        {"user": "Alice", "rating": 4},
+        {"user": "Bob", "rating": 5},
+        {"user": "Charlie", "rating": 4}
+      ]
+    },
+    {
+      "id": 4,
+      "meal_name": "Vegetable Stir-Fry",
+      "category": "Vegetarian",
+      "ingredients": ["Broccoli", "Bell peppers", "Carrots", "Snap peas", "Firm tofu", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
+      "instructions": "1. Cut tofu into cubes and marinate in soy sauce and sesame oil. 2. Heat a pan and stir-fry tofu until browned. 3. Remove tofu from the pan. 4. Stir-fry chopped ginger and garlic, then add sliced vegetables. 5. Add tofu back to the pan. 6. Add soy sauce and stir-fry until vegetables are tender. 7. Serve over cooked rice.",
+      "image_url": "https://img.freepik.com/free-photo/fried-vegetables-with-sauce-pan_1220-5283.jpg?size=626&ext=jpg&ga=GA1.2.146896240.1680505271&semt=ais",
+      "ratings": [
+        {"user": "Alice", "rating": 4},
+        {"user": "Bob", "rating": 3},
+        {"user": "Charlie", "rating": 5}
+      ]
+    }
+  ]
+  
